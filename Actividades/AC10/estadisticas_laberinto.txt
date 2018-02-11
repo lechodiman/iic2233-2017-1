@@ -1,0 +1,2 @@
+Muertos: 9
+Promedio tiempos supervivencia: 23.68108794424269
